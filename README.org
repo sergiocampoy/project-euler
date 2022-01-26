@@ -1,0 +1,2 @@
+#+TITLE: Project Euler
+In this repo I will solve a few of the exersices from [[https://projecteuler.net/][Project Euler]] to practice /emacs-lisp/.
